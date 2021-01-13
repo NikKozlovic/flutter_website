@@ -1,0 +1,74 @@
+body {
+  font-size: 28px;
+  margin-top: -57px;
+}
+
+ul {
+  margin-top: -19px;
+  list-style-type: none;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  margin-left: -8px;
+  margin-right: -8px;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 20px;
+  text-decoration: none;
+  font-family: Comic Sans MS;
+}
+
+li a:hover {
+  background-color: #212121;
+}
+
+.active {
+  background-color: #212121;
+}
+
+.header img {
+  float: left;
+  width: 100px;
+  height: 100px;
+  background: black;
+}
+.header h1 {
+  position: relative;
+  top: 19px;
+  left: 10px;
+  font-family: Comic Sans MS;
+  background-color: black;
+  margin-left: -18px;
+  padding-bottom: 22px;
+  color: white;
+}
+h2 {
+  font-family: Comic Sans MS;
+  text-align: center;
+}
+h6 {
+  font-family: Lucida Console;
+}
+p {
+  font-family: Arial;
+  font-size: large;
+}
+img {
+  float: right;
+  height: 441px;
+  margin-right: -10px;
+}
+.slika5 img {
+  margin-top: -35px;
+}
